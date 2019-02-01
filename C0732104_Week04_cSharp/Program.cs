@@ -10,6 +10,7 @@ namespace C0732104_Week04_cSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
